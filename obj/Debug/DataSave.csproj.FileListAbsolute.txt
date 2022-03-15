@@ -1,0 +1,10 @@
+C:\Users\r1910\source\repos\DataSave\bin\Debug\DataSave.exe.config
+C:\Users\r1910\source\repos\DataSave\bin\Debug\DataSave.exe
+C:\Users\r1910\source\repos\DataSave\bin\Debug\DataSave.pdb
+C:\Users\r1910\source\repos\DataSave\obj\Debug\DataSave.csprojAssemblyReference.cache
+C:\Users\r1910\source\repos\DataSave\obj\Debug\DataSave.Form1.resources
+C:\Users\r1910\source\repos\DataSave\obj\Debug\DataSave.Properties.Resources.resources
+C:\Users\r1910\source\repos\DataSave\obj\Debug\DataSave.csproj.GenerateResource.cache
+C:\Users\r1910\source\repos\DataSave\obj\Debug\DataSave.csproj.CoreCompileInputs.cache
+C:\Users\r1910\source\repos\DataSave\obj\Debug\DataSave.exe
+C:\Users\r1910\source\repos\DataSave\obj\Debug\DataSave.pdb
