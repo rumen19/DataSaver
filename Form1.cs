@@ -27,6 +27,7 @@ namespace DataSave
             SqlCommand cmd = new SqlCommand(InsertQuey, con);
             cmd.ExecuteNonQuery();
             con.Close();
+           // Update;
 
         }
 
